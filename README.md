@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kuffelgr
+- 👀 I’m interested in Agile software development and bioinformatics
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to collaborate on all the things
